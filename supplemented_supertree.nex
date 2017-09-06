@@ -1,0 +1,399 @@
+#NEXUS
+[written Wed Jul 19 13:41:13 EDT 2017 by Mesquite  version 3.2 (build 801) at Yoloswaggins/130.91.140.99]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=189;
+	TAXLABELS
+		Brindabellaspis_stensioi Pterichthyodes_milleri1 'Remigolepis_walkeri1' Microbrachius_dicki 'Bothriolepis_sp1' 'Bothriolepis_canadensis1' Diandongpetalichthys_liaojiaoshanensis 'Macropetalichthys_rapheidolabis1' 'Lunaspis_broilii1' Quasipetalichthys_haikouensis Eurycaraspis_incilis Materpiscis_attenboroughi 'Campbellodus_decipiens1' 'Australoptyctodus_gardineri1' 'Rhamphodopsis_threiplandi1' 'Romundina_stellina1' 'Sigaspis_lepidophora1' 'Kujdanowiaspis_podolica1' 'Dicksonosteus_arcticus1' Gavinaspis_convergens 'Cowralepis_mclachlani1' 'Wuttagoonaspis_fletcheri1' 'Groenlandaspis_sp' 'Buchanosteus_confertituberculatus1' 'Coccosteus_cuspidatus' 'Jagorina_pandora1' 'Gemuendina_stuertzi1' 'Yunnanolepis_sp' Holonema_westolli Parabuchanosteus_murrumbidgeensis Compagopiscis_croucheri Incisoscutum_ritchiei Eastmanosteus_calliaspis Turriaspis_elektor Homosteus_sulcatus 'Antineosteus_lehmani' Westralichthys_uwagedensis Xiangshuiosteus_wui Protitanichthys_rockportensis Janiosteus_timanicus Panxiosteus_ocullus Plourdosteus_canadensis Eastmanosteus_pustulosus Golshanichthys_asiatica Kiangyousteus_yohii Dunkleosteus_raveri Dunkleosteus_terrelli Dunkleosteus_amblyodoratus Yinosteus_major Heterostius_ingens Watsonosteus_fletti Millerosteus_minor Harrytoombsia_elegans Torosteus_tuberculatus Mcnamaraspis_kaprios Rolfosteus_canningensis Tubonasus_lennardensis Fallocosteus_turneri Camuropiscis_laidlawi Latocamurus_coulthardi Rachiosteus_pterygiatus Tapinosteus_heintzi Trematosteus_fontanellus Bruntonichthys_multidens Kendrickichthys_cavernosus Bullerichthys_fascidens Dinichthys_herzeri Hadrosteus_rapax Tafilalichthys_lavocati Bungartius_perssisus Titanichthys_agassizi Titanichthys_clarki Gorgonichthys_clarki Heintzichthys_gouldii Gymnotrachelus_hydei Pachyosteus_bulla Stenosteus_angustopectus Selenosteus_bevis Walterosteus Enseosteus Draconichthys_elegans Rhinosteus_parvulus Melanosteus_occitanus Driscollaspis_pankowskiorsum Brachyosteus_dietrichi Elvaspis Goodradigbeeon Dhanguura Dickosteus Torosteus_pulchellus Incisoscutum_sarahae 'Brindabellaspis_sp1' 'Brindabellaspis_sp2' 'Pterichthyodes_anitarch' 'Pterichthyodes_concatenatus' 'Pterichthyodes_milleri2' 'Pterichthyodes_milleri3' 'Pterichthyodes_milleri4' 'Pterichthyodes_milleri5' 'Pterichthyodes_milleri6' 'Remigolepis_sp1' 'Remigolepis_sp2' 'Remigolepis_sp3' 'Remigolepis_sp4' 'Remigolepis_sp5' 'Remigolepis_acuta' 'Remigolepis_durnalense' 'Remigolepis_karakoliensis' 'Remigolepis_redcliffensis' 'Remigolepis_suusamyrensis' 'Remigolepis_tuberculata' 'Remigolepis_walkeri2' 'Microbrachius_sp1' 'Microbrachius_sp2' 'Microbrachius_sp3' 'Microbrachius_chuandongensis' 'Bothriolepis_sp2' 'Bothriolepis_sp3' 'Bothriolepis_sp4' 'Bothriolepis_canadensis2' 'Bothriolepis_canadensis3' 'Macropetalichthys_sp1' 'Macropetalichthys_sp2' 'Macropetalichthys_sp3' 'Macropetalichthys_rapheidolabis2' 'Macropetalichthys_rapheidolabis3' 'Macropetalichthys_sullivanti1' 'Macropetalichthys_sullivanti2' 'Lunaspis_sp' 'Lunaspis_prumiensis1' 'Lunaspis_prumiensis2' 'Lunaspis_broilii2' 'Lunaspis_broilii3' 'Lunaspis_broilii4' 'Lunaspis_heroldi1' 'Lunaspis_heroldi2' 'Campbellodus_decipiens2' 'Campbellodus_decipiens3' 'Australoptyctodus_gardineri2' 'Rhamphodopsis_trispinatus' 'Rhamphodopsis_threiplandi2' 'Romundina_sp1' 'Romundina_sp2' 'Romundina_sp3' 'Romundina_sp4' 'Romundina_stellina2' 'Sigaspis_lepidophora2' 'Kujdanowiaspis_sp1' 'Kujdanowiaspis_sp2' 'Kujdanowiaspis_sp3' 'Kujdanowiaspis_buczacziensis1' 'Kujdanowiaspis_buczacziensis2' 'Kujdanowiaspis_buczacziensis3' 'Kujdanowiaspis_podolica2' 'Kujdanowiaspis_podolica3' 'Kujdanowiaspis_podolica4' 'Dicksonosteus_arcticus2' 'Dicksonosteus_arcticus3' 'Cowralepis_mclachlani2' 'Cowralepis_mclachlani3' 'Cowralepis_mclachlani4' 'Wuttagoonaspis_milligani1' 'Wuttagoonaspis_milligani2' 'Wuttagoonaspis_fletcheri2' 'Groenlandaspis_mirabilis' 'Groenlandaspis_antarctica1' 'Groenlandaspis_antarctica2' 'Buchanosteus_confertituberculatus2' 'Buchanosteus_confertituberculatus3' 'Buchanosteus_nuricus' 'Buchanosteus_murrumbidgeensis' 'Coccosteus_sp' 'Coccosteus_decipiens1' 'Coccosteus_decipiens2' 'Coccosteus_decipiens3' 'Coccosteus_macromus' 'Coccosteus_markae1' 'Coccosteus_markae2' 'Coccosteus_trautscholdi' 'Coccosteus_carbonarius' 'Jagorina_pandora2' 'Gemuendina_stuertzi2' 'Gemuendina_angusta' 'Yunnanolepis_bacboensis' 'Yunnanolepis_chii' 'Yunnanolepis_porifera' 'Yunnanolepis_meemannae' 'Parayunnanolepis_xitunensis' 'Groenlandaspis_disjectus' 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title Trees;
+	ID 015d5b1b57711;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Brindabellaspis_stensioi,
+[1] 		2 Pterichthyodes_milleri1,
+[2] 		3 'Remigolepis_walkeri1',
+[3] 		4 Microbrachius_dicki,
+[4] 		5 'Bothriolepis_sp1',
+[5] 		6 'Bothriolepis_canadensis1',
+[6] 		7 Diandongpetalichthys_liaojiaoshanensis,
+[7] 		8 'Macropetalichthys_rapheidolabis1',
+[8] 		9 'Lunaspis_broilii1',
+[9] 		10 Quasipetalichthys_haikouensis,
+[10] 		11 Eurycaraspis_incilis,
+[11] 		12 Materpiscis_attenboroughi,
+[12] 		13 'Campbellodus_decipiens1',
+[13] 		14 'Australoptyctodus_gardineri1',
+[14] 		15 'Rhamphodopsis_threiplandi1',
+[15] 		16 'Romundina_stellina1',
+[16] 		17 'Sigaspis_lepidophora1',
+[17] 		18 'Kujdanowiaspis_podolica1',
+[18] 		19 'Dicksonosteus_arcticus1',
+[19] 		20 Gavinaspis_convergens,
+[20] 		21 'Cowralepis_mclachlani1',
+[21] 		22 'Wuttagoonaspis_fletcheri1',
+[22] 		23 'Groenlandaspis_sp',
+[23] 		24 'Buchanosteus_confertituberculatus1',
+[24] 		25 'Coccosteus_cuspidatus',
+[25] 		26 'Jagorina_pandora1',
+[26] 		27 'Gemuendina_stuertzi1',
+[27] 		28 'Yunnanolepis_sp',
+[28] 		29 Holonema_westolli,
+[29] 		30 Parabuchanosteus_murrumbidgeensis,
+[30] 		31 Compagopiscis_croucheri,
+[31] 		32 Incisoscutum_ritchiei,
+[32] 		33 Eastmanosteus_calliaspis,
+[33] 		34 Turriaspis_elektor,
+[34] 		35 Homosteus_sulcatus,
+[35] 		36 'Antineosteus_lehmani',
+[36] 		37 Westralichthys_uwagedensis,
+[37] 		38 Xiangshuiosteus_wui,
+[38] 		39 Protitanichthys_rockportensis,
+[39] 		40 Janiosteus_timanicus,
+[40] 		41 Panxiosteus_ocullus,
+[41] 		42 Plourdosteus_canadensis,
+[42] 		43 Eastmanosteus_pustulosus,
+[43] 		44 Golshanichthys_asiatica,
+[44] 		45 Kiangyousteus_yohii,
+[45] 		46 Dunkleosteus_raveri,
+[46] 		47 Dunkleosteus_terrelli,
+[47] 		48 Dunkleosteus_amblyodoratus,
+[48] 		49 Yinosteus_major,
+[49] 		50 Heterostius_ingens,
+[50] 		51 Watsonosteus_fletti,
+[51] 		52 Millerosteus_minor,
+[52] 		53 Harrytoombsia_elegans,
+[53] 		54 Torosteus_tuberculatus,
+[54] 		55 Mcnamaraspis_kaprios,
+[55] 		56 Rolfosteus_canningensis,
+[56] 		57 Tubonasus_lennardensis,
+[57] 		58 Fallocosteus_turneri,
+[58] 		59 Camuropiscis_laidlawi,
+[59] 		60 Latocamurus_coulthardi,
+[60] 		61 Rachiosteus_pterygiatus,
+[61] 		62 Tapinosteus_heintzi,
+[62] 		63 Trematosteus_fontanellus,
+[63] 		64 Bruntonichthys_multidens,
+[64] 		65 Kendrickichthys_cavernosus,
+[65] 		66 Bullerichthys_fascidens,
+[66] 		67 Dinichthys_herzeri,
+[67] 		68 Hadrosteus_rapax,
+[68] 		69 Tafilalichthys_lavocati,
+[69] 		70 Bungartius_perssisus,
+[70] 		71 Titanichthys_agassizi,
+[71] 		72 Titanichthys_clarki,
+[72] 		73 Gorgonichthys_clarki,
+[73] 		74 Heintzichthys_gouldii,
+[74] 		75 Gymnotrachelus_hydei,
+[75] 		76 Pachyosteus_bulla,
+[76] 		77 Stenosteus_angustopectus,
+[77] 		78 Selenosteus_bevis,
+[78] 		79 Walterosteus,
+[79] 		80 Enseosteus,
+[80] 		81 Draconichthys_elegans,
+[81] 		82 Rhinosteus_parvulus,
+[82] 		83 Melanosteus_occitanus,
+[83] 		84 Driscollaspis_pankowskiorsum,
+[84] 		85 Brachyosteus_dietrichi,
+[85] 		86 Elvaspis,
+[86] 		87 Goodradigbeeon,
+[87] 		88 Dhanguura,
+[88] 		89 Dickosteus,
+[89] 		90 Torosteus_pulchellus,
+[90] 		91 Incisoscutum_sarahae,
+[91] 		92 'Brindabellaspis_sp1',
+[92] 		n92 'Brindabellaspis_sp2',
+[93] 		n93 'Pterichthyodes_anitarch',
+[94] 		n94 'Pterichthyodes_concatenatus',
+[95] 		n95 'Pterichthyodes_milleri2',
+[96] 		n96 'Pterichthyodes_milleri3',
+[97] 		n97 'Pterichthyodes_milleri4',
+[98] 		n98 'Pterichthyodes_milleri5',
+[99] 		n99 'Pterichthyodes_milleri6',
+[100] 		n100 'Remigolepis_sp1',
+[101] 		n101 'Remigolepis_sp2',
+[102] 		n102 'Remigolepis_sp3',
+[103] 		n103 'Remigolepis_sp4',
+[104] 		n104 'Remigolepis_sp5',
+[105] 		n105 'Remigolepis_acuta',
+[106] 		n106 'Remigolepis_durnalense',
+[107] 		n107 'Remigolepis_karakoliensis',
+[108] 		n108 'Remigolepis_redcliffensis',
+[109] 		n109 'Remigolepis_suusamyrensis',
+[110] 		n110 'Remigolepis_tuberculata',
+[111] 		n111 'Remigolepis_walkeri2',
+[112] 		n112 'Microbrachius_sp1',
+[113] 		n113 'Microbrachius_sp2',
+[114] 		n114 'Microbrachius_sp3',
+[115] 		n115 'Microbrachius_chuandongensis',
+[116] 		n116 'Bothriolepis_sp2',
+[117] 		n117 'Bothriolepis_sp3',
+[118] 		n118 'Bothriolepis_sp4',
+[119] 		n119 'Bothriolepis_canadensis2',
+[120] 		n120 'Bothriolepis_canadensis3',
+[121] 		n121 'Macropetalichthys_sp1',
+[122] 		n122 'Macropetalichthys_sp2',
+[123] 		n123 'Macropetalichthys_sp3',
+[124] 		n124 'Macropetalichthys_rapheidolabis2',
+[125] 		n125 'Macropetalichthys_rapheidolabis3',
+[126] 		n126 'Macropetalichthys_sullivanti1',
+[127] 		n127 'Macropetalichthys_sullivanti2',
+[128] 		n128 'Lunaspis_sp',
+[129] 		n129 'Lunaspis_prumiensis1',
+[130] 		n130 'Lunaspis_prumiensis2',
+[131] 		n131 'Lunaspis_broilii2',
+[132] 		n132 'Lunaspis_broilii3',
+[133] 		n133 'Lunaspis_broilii4',
+[134] 		n134 'Lunaspis_heroldi1',
+[135] 		n135 'Lunaspis_heroldi2',
+[136] 		n136 'Campbellodus_decipiens2',
+[137] 		n137 'Campbellodus_decipiens3',
+[138] 		n138 'Australoptyctodus_gardineri2',
+[139] 		n139 'Rhamphodopsis_trispinatus',
+[140] 		n140 'Rhamphodopsis_threiplandi2',
+[141] 		n141 'Romundina_sp1',
+[142] 		n142 'Romundina_sp2',
+[143] 		n143 'Romundina_sp3',
+[144] 		n144 'Romundina_sp4',
+[145] 		n145 'Romundina_stellina2',
+[146] 		n146 'Sigaspis_lepidophora2',
+[147] 		n147 'Kujdanowiaspis_sp1',
+[148] 		n148 'Kujdanowiaspis_sp2',
+[149] 		n149 'Kujdanowiaspis_sp3',
+[150] 		n150 'Kujdanowiaspis_buczacziensis1',
+[151] 		n151 'Kujdanowiaspis_buczacziensis2',
+[152] 		n152 'Kujdanowiaspis_buczacziensis3',
+[153] 		n153 'Kujdanowiaspis_podolica2',
+[154] 		n154 'Kujdanowiaspis_podolica3',
+[155] 		n155 'Kujdanowiaspis_podolica4',
+[156] 		n156 'Dicksonosteus_arcticus2',
+[157] 		n157 'Dicksonosteus_arcticus3',
+[158] 		n158 'Cowralepis_mclachlani2',
+[159] 		n159 'Cowralepis_mclachlani3',
+[160] 		n160 'Cowralepis_mclachlani4',
+[161] 		n161 'Wuttagoonaspis_milligani1',
+[162] 		n162 'Wuttagoonaspis_milligani2',
+[163] 		n163 'Wuttagoonaspis_fletcheri2',
+[164] 		n164 'Groenlandaspis_mirabilis',
+[165] 		n165 'Groenlandaspis_antarctica1',
+[166] 		n166 'Groenlandaspis_antarctica2',
+[167] 		n167 'Buchanosteus_confertituberculatus2',
+[168] 		n168 'Buchanosteus_confertituberculatus3',
+[169] 		n169 'Buchanosteus_nuricus',
+[170] 		n170 'Buchanosteus_murrumbidgeensis',
+[171] 		n171 'Coccosteus_sp',
+[172] 		n172 'Coccosteus_decipiens1',
+[173] 		n173 'Coccosteus_decipiens2',
+[174] 		n174 'Coccosteus_decipiens3',
+[175] 		n175 'Coccosteus_macromus',
+[176] 		n176 'Coccosteus_markae1',
+[177] 		n177 'Coccosteus_markae2',
+[178] 		n178 'Coccosteus_trautscholdi',
+[179] 		n179 'Coccosteus_carbonarius',
+[180] 		n180 'Jagorina_pandora2',
+[181] 		n181 'Gemuendina_stuertzi2',
+[182] 		n182 'Gemuendina_angusta',
+[183] 		n183 'Yunnanolepis_bacboensis',
+[184] 		n184 'Yunnanolepis_chii',
+[185] 		n185 'Yunnanolepis_porifera',
+[186] 		n186 'Yunnanolepis_meemannae',
+[187] 		n187 'Parayunnanolepis_xitunensis',
+[188] 		n188 'Groenlandaspis_disjectus';
+	TREE 'con 50 majrule+' = (1:0.002456436,2:0.00230627,3:0.002378188,4:0.002358547,5:0.002445737,6:0.002335983,16:0.002486074,28:0.002356755,38:0.002067097,39:0.003227456,89:0.002287563,((((31:0.001966722,((32:0.00223991,91:0.002293002):0.005587239,(56:0.002006289,(57:0.002035904,(58:0.001979549,(59:0.002023332,60:0.001988347):0.00756548):0.007468433):0.007557015):0.01044476):0.005485628):0.004550704,55:0.002091315):0.01044177,(54:0.002058358,90:0.002159211):0.004720838):0.00472082,53:0.002010592):0.008721389,(26:0.00228001,27:0.002966655):0.009555425,((((((((17:0.002394571,18:0.003431654):0.008482099,34:0.001946654):0.00651723,19:0.001851824,(20:0.002485137,(21:0.002300097,22:0.0023721):0.005282299):0.005273048,86:0.00227175):0.005472072,23:0.002149845):0.005235083,29:0.00190432):0.007939693,(35:0.0019098,36:0.001996845):0.007433948):0.008250393,(24:0.001824008,30:0.002134511,87:0.002262534):0.004892368):0.006044112,88:0.002485967):0.009044902,(7:0.002440296,(8:0.002379552,9:0.002318401,(64:0.001963971,65:0.0019678):0.005262307,66:0.002405486,67:0.00201632,68:0.002780981,69:0.002265154,(70:0.002321288,(71:0.002324874,72:0.002202487):0.005030535):0.005311046):0.01090225,(10:0.002429626,((11:0.002419938,12:0.002458805,13:0.002505666,14:0.002365192,15:0.002397318,74:0.001995325,75:0.001997644,76:0.002089235,77:0.002016424,78:0.002333186,79:0.002353803,(80:0.002239782,81:0.002173472):0.004877153,82:0.00231419,83:0.002382505,(84:0.002251812,85:0.002438552):0.00567267):0.006911315,73:0.001964256):0.01010629):0.01448262,61:0.00207958,62:0.002174606,63:0.01517038):0.01054256,(40:0.00191864,41:0.001997102,42:0.002016075):0.007245006,(25:0.002805002,51:0.004248014,52:0.002648954):0.01139239,(33:0.007302653,37:0.00565525,(43:0.001977964,45:0.001978522):0.005067438,44:0.001996006,(46:0.002005685,47:0.00191989):0.006819151,(48:0.001978715,(49:0.001913684,50:0.002023815):0.006903683):0.007365657):0.01378847);
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1500486073266;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 4859256021144843467;
+			tell It;
+				setDefaultOrder  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 192 188;
+				attachments ;
+			endTell;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 66;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1366 649;
+			setLocation -8 -8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #4859256021144843467 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #4859256021144843467;
+				getWindow;
+				tell It;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1300 577;
+					setLocation -8 -8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.lists.TaxonList.TaxonListWindow.ibeam;
+					endTell;
+					setActive;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #4859256021144843467  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					setTreeBlockID 015d5b1b57711;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 935.1500472121303.8621949233118511673;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1300 577;
+					setLocation -8 -8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.trees.BasicTreeWindowMaker.BasicTreeWindow.arrow;
+					endTell;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientUp;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						toggleColorPartition off;
+						toggleColorAssigned on;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setTree '((1:0.001228218,(92,93)):0.001228218,(94,95,(2:0.001153135,96,97,98,99,100)):0.001153135,((112,3:0.001189094),(111,106,110,109,107,108),(101,102,103,104,105)):0.001189094,(116,(113,114,115),4:0.00179070775):0.00179070775,((6:0.0011679915,120,121):0.0011679915,(5:0.0012228685,117,118,119):0.00061143425):0.00061143425,((142,143,144,145),(16:0.0006215185,146):0.0006215185):0.001243037,(28:0.0011783775,185,186,184,187):0.0011783775,38:0.002067097,39:0.003227456,188:0.0011437815,89:0.002287563,((((31:0.001966722,((32:0.00223991,91:0.002293002):0.005587239,(56:0.002006289,(57:0.002035904,(58:0.001979549,(59:0.002023332,60:0.001988347):0.00756548):0.007468433):0.007557015):0.01044476):0.005485628):0.004550704,55:0.002091315):0.01044177,(54:0.002058358,90:0.002159211):0.004720838):0.00472082,53:0.002010592):0.008721389,((26:0.00228001,181),(183,(27:0.001936091875,182):0.001936091875):0.00387218375):0.0047777125,(((((((((17:0.0011972855,147):0.0011972855,((18:0.001715827,154,155,156),(148,149,150),(151,152,153)):0.001715827):0.008482099,34:0.001946654):0.00651723,(19:0.000925912,157,158):0.000925912,(20:0.002485137,((21:0.0011500485,159,160,161):0.0011500485,((162,163),(22:0.000593025,164):0.000593025):0.00118605):0.005282299):0.005273048,86:0.00227175):0.005472072,((166,167),165,189:0.00053746125,23:0.0010749225):0.0010749225):0.005235083,29:0.00190432):0.007939693,(35:0.0019098,36:0.001996845):0.007433948):0.008250393,(((24:0.000912004,168,169),(171,170)):0.000912004,30:0.002134511,87:0.002262534):0.004892368):0.006044112,88:0.002485967):0.009044902,(7:0.002440296,(((127,128),(8:0.001189776,125,126),(122,123,124)):0.001189776,(129,(130,131),(135,136),(9:0.0011592005,132,133,134)):0.0011592005,(64:0.001963971,65:0.0019678):0.005262307,66:0.002405486,67:0.00201632,68:0.002780981,69:0.002265154,(70:0.002321288,(71:0.002324874,72:0.002202487):0.005030535):0.005311046):0.01090225,(10:0.002429626,((11:0.002419938,12:0.002458805,(13:0.001252833,137,138):0.001252833,(14:0.001182596,139):0.001182596,(15:0.001198659,141,140):0.001198659,74:0.001995325,75:0.001997644,76:0.002089235,77:0.002016424,78:0.002333186,79:0.002353803,(80:0.002239782,81:0.002173472):0.004877153,82:0.00231419,83:0.002382505,(84:0.002251812,85:0.002438552):0.00567267):0.006911315,73:0.001964256):0.01010629):0.01448262,61:0.00207958,62:0.002174606,63:0.01517038):0.01054256,(40:0.00191864,41:0.001997102,42:0.002016075):0.007245006,((172,25:0.001402501,(173,174,175),(177,178),176,179,180):0.001402501,51:0.004248014,52:0.002648954):0.01139239,(33:0.007302653,37:0.00565525,(43:0.001977964,45:0.001978522):0.005067438,44:0.001996006,(46:0.002005685,47:0.00191989):0.006819151,(48:0.001978715,(49:0.001913684,50:0.002023815):0.006903683):0.007365657):0.01378847);';
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName on;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					setDigits 4;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+
