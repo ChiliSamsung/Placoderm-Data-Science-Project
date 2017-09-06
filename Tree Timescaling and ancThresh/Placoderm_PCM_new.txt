@@ -1,0 +1,217 @@
+Taxon	Fauna	Lower	Upper	BA0	BA1	BA2	BA3	BA4	BA5	BA6
+Brindabellaspis_stensioi	ReceptaculitesLm	403	398	0	0.5	0.5	0	0	0	0
+Brindabellaspis_sp1	HibbsLm	411	408	0	0	1	0	0	0	0
+Brindabellaspis_sp2	HibbsLm	411	408	0	0	1	0	0	0	0
+Pterichthyodes_anitarch	Toomba	394	389	0.8	0.2	0	0	0	0	0
+Pterichthyodes_concatenatus	Narva	388	384	0	0.5	0.5	0	0	0	0
+Pterichthyodes_milleri1	LethenBar	387	383	0	0	0.5	0.5	0	0	0
+Pterichthyodes_milleri2	MiddleOldRedSandstone	387	383	0	0	0.5	0.5	0	0	0
+Pterichthyodes_milleri3	MiddleOldRedSandstone	387	383	0	0	0.5	0.5	0	0	0
+Pterichthyodes_milleri4	MiddleOldRedSandstone	387	383	0	0	0.5	0.5	0	0	0
+Pterichthyodes_milleri5	MiddleOldRedSandstone	387	383	0	0	0.5	0.5	0	0	0
+Pterichthyodes_milleri6	MiddleOldRedSandstone	387	383	1	0	0	0	0	0	0
+Remigolepis_sp1	AinaDal	368	363	1	0	0	0	0	0	0
+Remigolepis_sp2	UpperOldRedSandstone	368	363	0	0.5	0.5	0	0	0	0
+Remigolepis_sp3	CloghnanShale	368	363	1	0	0	0	0	0	0
+Remigolepis_sp4	BrittaDal	365	363	1	0	0	0	0	0	0
+Remigolepis_sp5	AinaDal	368	363	1	0	0	0	0	0	0
+Remigolepis_tuberculata	AinaDal	367	362	1	0	0	0	0	0	0
+Remigolepis_acuta	AinaDal	368	363	1	0	0	0	0	0	0
+Remigolepis_suusamyrensis	TorsujFm	367	363	0	0	0.33	0.33	0.33	0	0
+Remigolepis_redcliffensis	HunterFm	364	359	1	0	0	0	0	0	0
+Remigolepis_durnalense	EvieuxFm	365	360	0.33	0.33	0.33	0	0	0	0
+Remigolepis_karakoliensis	TorsujFm	367	363	0	0	0.33	0.33	0.33	0	0
+Remigolepis_walkeri1	MandageryFm	377	372	0.5	0.5	0	0	0	0	0
+Remigolepis_walkeri2	CornstoneGroup	370	365	1	0	0	0	0	0	0
+Microbrachius_sp1	Gauja	377	374	0	1	0	0	0	0	0
+Microbrachius_sp2	Gauja	377	374	0	1	0	0	0	0	0
+Microbrachius_sp3	Gauja	377	374	0	1	0	0	0	0	0
+Microbrachius_chuandongensis	ChuandongFm	399	394	0	0.5	0.5	0	0	0	0
+Bothriolepis_sp1	DoSonFm	423	419	0.5	0.5	0	0	0	0	0
+Bothriolepis_sp2	CatskillFm	365	360	0.5	0.5	0	0	0	0	0
+Bothriolepis_sp3	ChemungFm	377	372	0	0.5	0.5	0	0	0	0
+Bothriolepis_sp4	GogoFm	385	380	0	0	0	0.33	0.33	0.33	0
+Bothriolepis_canadensis1	EscuminacFm	379	378	0.5	0.5	0	0	0	0	0
+Bothriolepis_canadensis2	EscuminacFm	379	378	0.5	0.5	0	0	0	0	0
+Bothriolepis_canadensis3	EscuminacFm	379	378	0.5	0.5	0	0	0	0	0
+Romundina_sp1	FukujiFm	411	408	0	0	0	0.5	0.5	0	0
+Romundina_sp2	FukujiFm	411	408	0	0	0	0.5	0.5	0	0
+Romundina_sp3	FukujiFm	411	408	0	0	0	0.5	0.5	0	0
+Romundina_sp4	PrinceofWalesIsland	423	419	0.33	0.33	0.33	0	0	0	0
+Romundina_stellina1	PrinceofWalesIsland	423	419	0.33	0.33	0.33	0	0	0	0
+Romundina_stellina2	DrakeBayFm	423	419	0.33	0.33	0.33	0	0	0	0
+Yunnanolepis_chii	XitunFm	409	404	0	1	0	0	0	0	0
+Yunnanolepis_porifera	XitunFm	409	404	0	1	0	0	0	0	0
+Yunnanolepis_bacboensis	XitunFm	409	404	0	1	0	0	0	0	0
+Yunnanolepis_meemannae	XitunFm	409	406	0	1	0	0	0	0	0
+Xiangshuiosteus_wui	JiuchengFm	399	394	0.33	0.33	0.33	0	0	0	0
+Protitanichthys_rockportensis	RockportQuarry	390	388	0	0	0.5	0.5	0	0	0
+Dickosteus	UpperStromnessFlagstoneFm	391	388	1	0	0	0	0	0	0
+Compagopiscis_croucheri	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Incisoscutum_ritchiei	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Incisoscutum_sarahae	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Rolfosteus_canningensis	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Tubonasus_lennardensis	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Fallocosteus_turneri	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Camuropiscis_laidlawi	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Latocamurus_coulthardi	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Mcnamaraspis_kaprios	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Torosteus_tuberculatus	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Torosteus_pulchellus	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Harrytoombsia_elegans	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Jagorina_pandora1	MantiocerasBeds	377	372	0	0	0.33	0.33	0.33	0	0
+Jagorina_pandora2	MantiocerasBeds	377	372	0	0	0.33	0.33	0.33	0	0
+Gemuendina_angusta	HunsruckSlate	408	403	0.33	0.33	0.33	0	0	0	0
+Gemuendina_stuertzi1	HunsruckSlate	408	403	0.33	0.33	0.33	0	0	0	0
+Gemuendina_stuertzi2	HunsruckSlate	407	404	0.33	0.33	0.33	0	0	0	0
+Sigaspis_lepidophora1	WoodBayFm	411	408	1	0	0	0	0	0	0
+Sigaspis_lepidophora2	WoodBayFm	411	408	1	0	0	0	0	0	0
+Kujdanowiaspis_podolica1	BabinSandstoneFm	411	408	0	0.5	0.5	0	0	0	0
+Kujdanowiaspis_podolica2	NoguerasFm	413	409	0	0.5	0.5	0	0	0	0
+Kujdanowiaspis_podolica3	DnisterSeries	416	412	0	0.5	0.5	0	0	0	0
+Kujdanowiaspis_podolica4	DnisterSeries	413	409	0	0.5	0.5	0	0	0	0
+Kujdanowiaspis_sp1	DnisterSeries	412	407	0	0.5	0.5	0	0	0	0
+Kujdanowiaspis_sp2	LowerOldRedSandstone	415	411	0	0.5	0.5	0	0	0	0
+Kujdanowiaspis_sp3	BabinSandstoneFm	411	408	0	0.5	0.5	0	0	0	0
+Kujdanowiaspis_buczacziensis1	BabinSandstoneFm	412	408	0	0.5	0.5	0	0	0	0
+Kujdanowiaspis_buczacziensis2	BabinSandstoneFm	416	412	0	0.5	0.5	0	0	0	0
+Kujdanowiaspis_buczacziensis3	DnisterSeries	411	408	0	0.5	0.5	0	0	0	0
+Turriaspis_elektor	RedHill	365	360	1	0	0	0	0	0	0
+Dicksonosteus_arcticus1	WoodBayFm	411	408	1	0	0	0	0	0	0
+Dicksonosteus_arcticus2	WoodBayFm	411	408	1	0	0	0	0	0	0
+Dicksonosteus_arcticus3	WoodBayFm	411	408	1	0	0	0	0	0	0
+Gavinaspis_convergens	XitunFm	416	412	0	0.5	0.5	0	0	0	0
+Cowralepis_mclachlani1	MerriganowryShale	385	380	0.66	0.33	0	0	0	0	0
+Cowralepis_mclachlani2	MerrimbulaGroup	388	383	0	0.5	0.5	0	0	0	0
+Cowralepis_mclachlani3	HunterFm	364	359	1	0	0	0	0	0	0
+Cowralepis_mclachlani4	HunterFm	364	359	1	0	0	0	0	0	0
+Wuttagoonaspis_milligani1	DulcieSandstone	395	390	1	0	0	0	0	0	0
+Wuttagoonaspis_milligani2	CravensPeakBeds	394	389	1	0	0	0	0	0	0
+Wuttagoonaspis_fletcheri1	MulgaDownsGroup	393	388	1	0	0	0	0	0	0
+Wuttagoonaspis_fletcheri2	MulgaDownsGroup	393	388	1	0	0	0	0	0	0
+Groenlandaspis_antarctica1	AztecSiltstone	388	383	1	0	0	0	0	0	0
+Groenlandaspis_antarctica2	AztecSiltstone	388	383	1	0	0	0	0	0	0
+Groenlandaspis_mirabilis	CelsiusbjergGroup	364	359	1	0	0	0	0	0	0
+Groenlandaspis_disjectus	KiltorcanBeds	361	356	0	0.5	0.5	0	0	0	0
+Groenlandaspis_sp	CatskillFm	365	360	0.5	0.5	0	0	0	0	0
+Holonema_westolli	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Homosteus_sulcatus	Arukula	384	381	0.5	0.5	0	0	0	0	0
+Buchanosteus_confertituberculatus1	McLartyLm	395	390	0	0	1	0	0	0	0
+Buchanosteus_confertituberculatus2	SpiriferYassensisLm	408	403	0	0.5	0.5	0	0	0	0
+Buchanosteus_confertituberculatus3	SpiriferYassensisLm	408	403	0	0.5	0.5	0	0	0	0
+Buchanosteus_murrumbidgeensis	TaemasLm	405	400	0	0.5	0.5	0	0	0	0
+Buchanosteus_nuricus	BiotarFm	399	394	0	0.5	0.5	0	0	0	0
+Parabuchanosteus_murrumbidgeensis	TaemasLm	405	400	0	0.5	0.5	0	0	0	0
+Goodradigbeeon_australianum	CavanBluffLm	398	393	0	0.1	0.4	0.4	0.1	0	0
+Dhanguura_johnstoni	UpperReefFm	403	398	0	0	0	0.33	0.33	0.33	0
+Diandongpetalichthys_liaojiaoshanensis	XishancunFm	419	414	0	1	0	0	0	0	0
+Macropetalichthys_sp1	HungryHollowFm	386	385	0	0	0	0.5	0.5	0	0
+Macropetalichthys_sp2	CorniferousLm	392	387	0.5	0.25	0.25	0	0	0	0
+Macropetalichthys_sp3	OnondagaLm	389	384	1	0	0	0	0	0	0
+Macropetalichthys_rapheidolabis1	OnondagaLs	392	389	0	0	0.33	0.33	0.33	0	0
+Macropetalichthys_rapheidolabis2	HuronShale	372	367	0	0	0.5	0.5	0	0	0
+Macropetalichthys_rapheidolabis3	CorniferousLm	392	387	0.5	0.25	0.25	0	0	0	0
+Macropetalichthys_sullivanti1	CorniferousLm	392	387	0.5	0.25	0.25	0	0	0	0
+Macropetalichthys_sullivanti2	DelawareLm	389	388	0	0.5	0.5	0	0	0	0
+Lunaspis_sp	AdamMudstone	409	404	0	0.5	0.5	0	0	0	0
+Lunaspis_prumiensis1	HunsruckSlate	408	403	0.33	0.33	0.33	0	0	0	0
+Lunaspis_prumiensis2	HunsruckSlate	408	403	0.33	0.33	0.33	0	0	0	0
+Lunaspis_heroldi1	HunsruckSlate	408	403	0	0.5	0.5	0	0	0	0
+Lunaspis_heroldi2	HunsruckSlate	408	403	0	0.5	0.5	0	0	0	0
+Lunaspis_broilii1	HunsruckSlate	408	407	0.33	0.33	0.33	0	0	0	0
+Lunaspis_broilii2	SpiriferYassensisLm	408	403	0	0.5	0.5	0	0	0	0
+Lunaspis_broilii3	HunsruckSlate	409	407	0.33	0.33	0.33	0	0	0	0
+Lunaspis_broilii4	HunsruckSlate	408	403	0	0.5	0.5	0	0	0	0
+Bruntonichthys_multidens	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Kendrickichthys_cavernosus	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Bullerichthys_fascidens	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Hadrosteus_rapax	Kellwasserkalk	377	372	0	0	0.33	0.33	0.33	0	0
+Tafilalichthys_lavocati	TafilaltPlatform	364	359	0	0	0.33	0.33	0.33	0	0
+Bungartius_perssisus	ClevelandShale	363	358	0	0.4	0.4	0.2	0	0	0
+Titanichthys_agassizi	ClevelandShale	363	358	0	0.4	0.4	0.2	0	0	0
+Titanichthys_clarki	ClevelandShale	363	358	0	0.4	0.4	0.2	0	0	0
+Quasipetalichthys_haikouensis	HaikouFm	388	383	0	0.2	0.8	0	0	0	0
+Eurycaraspis_incilis	HaikouFm	388	383	0	0.2	0.8	0	0	0	0
+Materpiscis_attenboroughi	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Campbellodus_decipiens1	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Campbellodus_decipiens2	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Campbellodus_decipiens3	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Australoptyctodus_gardineri1	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Australoptyctodus_gardineri2	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Rhamphodopsis_threiplandi1	AchanarrasQuarry	388	385	0	0.5	0.5	0	0	0	0
+Rhamphodopsis_threiplandi2	AchanarrasQuarry	388	385	0	0.5	0.5	0	0	0	0
+Rhamphodopsis_trispinatus	AchanarrasQuarry	388	385	0	0.5	0.5	0	0	0	0
+Heintzichthys_gouldii	ClevelandShale	363	358	0	0.4	0.4	0.2	0	0	0
+Gymnotrachelus_hydei	ClevelandShale	365	360	0	0.4	0.4	0.2	0	0	0
+Pachyosteus_bulla	Kellwasserkalk	377	372	0	0	0.33	0.33	0.33	0	0
+Stenosteus_angustopectus	ClevelandShale	365	360	0	0.4	0.4	0.2	0	0	0
+Selenosteus_bevis	ClevelandShale	363	358	0	0.4	0.4	0.2	0	0	0
+Walterosteus	Kellwasserkalk	377	372	0	0	0.33	0.33	0.33	0	0
+Enseosteus	Kellwasserkalk	377	372	0	0	0.33	0.33	0.33	0	0
+Draconichthys_elegans	KellwasserkalkMorocco	377	372	0	0.33	0.33	0.33	0	0	0
+Rhinosteus_parvulus	Kellwasserkalk	377	372	0	0	0.33	0.33	0.33	0	0
+Driscollaspis_pankowskiorsum	KellwasserkalkMorocco	377	372	0	0.33	0.33	0.33	0	0	0
+Gorgonichthys_clarki	ClevelandShale	365	360	0	0.4	0.4	0.2	0	0	0
+Plourdosteus_canadensis	Miguasha	382	377	0.5	0.5	0	0	0	0	0
+Coccosteus_sp	ArukulaStage	384	381	0.5	0.5	0	0	0	0	0
+Coccosteus_cuspidatus	LowerStromnessFlagstoneFm	393	390	0	0.5	0.5	0	0	0	0
+Coccosteus_decipiens1	AchanarrasQuarry	388	385	0	0.5	0.5	0	0	0	0
+Coccosteus_decipiens2	OldRedSandstone	388	385	0	0.5	0.5	0	0	0	0
+Coccosteus_decipiens3	OldRedSandstone	388	385	0	0.5	0.5	0	0	0	0
+Coccosteus_markae1	Burtnieki	381	377	0	1	0	0	0	0	0
+Coccosteus_markae2	OldRedSandstone	388	385	0	0.5	0.5	0	0	0	0
+Coccosteus_macromus	ChemungFm	377	372	0	0.5	0.5	0	0	0	0
+Coccosteus_trautscholdi	Burtnieki	382	378	0.25	0.5	0.25	0	0	0	0
+Coccosteus_carbonarius	CarganamuckQuarry	336	331	0	0.4	0.4	0.2	0	0	0
+Watsonosteus_fletti	EdayFlagstoneFm	385	383	1	0	0	0	0	0	0
+Millerosteus_minor	RousayFlagstoneFm	386	385	1	0	0	0	0	0	0
+Eastmanosteus_calliaspis	GogoFm	383	378	0	0	0	0.33	0.33	0.33	0
+Westralichthys_uwagedensis	GumholeFm	367	362	0	0.5	0.5	0	0	0	0
+Kiangyousteus_yohii	GuanwushanFm	383	382	0	0	0.33	0.33	0.33	0	0
+Golshanichthys_asiatica	Gulshan	378	373	0	0.25	0.25	0.25	0.25	0	0
+Dunkleosteus_terrelli	HuronShale	372	367	0	0.33	0.33	0.33	0	0	0
+Dunkleosteus_amblyodoratus	KettlePointShale	370	365	0	0.33	0.33	0.33	0	0	0
+Yinosteus_major	JiuchengFm	399	394	0.33	0.33	0.33	0	0	0	0
+Heterostius_ingens	Arukula	384	381	0.5	0.5	0	0	0	0	0
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
