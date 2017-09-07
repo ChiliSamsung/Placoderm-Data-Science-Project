@@ -1,4 +1,4 @@
-# Placoderm-Data-Science-Project
+# Placoderm Data Science Project
 
 ## Introduction
 *This was a project performed by Charles Sansone with assistance from Dr. Lauren Sallan over Summer 2017*. Placoderms are an ancient extinct class or armored fish that existed from 430mya to 360mya. Notably, placoderms were the first fish to develop true teeth, and were among the first to develop jaws. Therefore, Placoderms are a sister group to living jawed vertebrates. This project hoped to reveal the ancestral habitats of placoderms and therefore the setting where the origination of jaws occurred. Whichever Benthic Assemblage (BA) zone it occurred in would inform us as to whether Placodermi were an apex predator in open water, in competition with invertebrates in reefs, etc. The origination environment would also tell us whether the diversity of placoderms, and thus jawed fishes, originated in a restricted environment, or as a result of transitions.
@@ -25,6 +25,9 @@ Next in Step 3 we will obtain the mean BA scores of the data, which will demonst
 
 ## Authors
 * **Charles Sansone** - University of Pennsylvania ('20) - pursuing Bachelors of Arts and Sciences in Computer Science and Economics (Dual Major)
-* **Dr. Lauren Sallan** - Professor of ____
+* **Dr. Lauren Sallan** - Martin Meyerson Assistant Professor in Interdisciplinary Studies
 
 ## Acknowledgments
+* I would again like to acknowledge Dr. Lauren Sallan, my faculty mentor under Penn Earth & Environmental Science
+* PURM for funding my research
+* University of Pennsylvania College of Arts and Sciences
